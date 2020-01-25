@@ -1,0 +1,14 @@
+C:\Users\krist\source\repos\Calc\Calc\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\krist\source\repos\Calc\Calc\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\krist\source\repos\Calc\Calc\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\krist\source\repos\Calc\Calc\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\krist\source\repos\Calc\Calc\bin\Debug\netcoreapp2.0\Calc.deps.json
+C:\Users\krist\source\repos\Calc\Calc\bin\Debug\netcoreapp2.0\Calc.runtimeconfig.json
+C:\Users\krist\source\repos\Calc\Calc\bin\Debug\netcoreapp2.0\Calc.runtimeconfig.dev.json
+C:\Users\krist\source\repos\Calc\Calc\bin\Debug\netcoreapp2.0\Calc.dll
+C:\Users\krist\source\repos\Calc\Calc\bin\Debug\netcoreapp2.0\Calc.pdb
+C:\Users\krist\source\repos\Calc\Calc\obj\Debug\netcoreapp2.0\Calc.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\Calc\Calc\obj\Debug\netcoreapp2.0\Calc.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\Calc\Calc\obj\Debug\netcoreapp2.0\Calc.AssemblyInfo.cs
+C:\Users\krist\source\repos\Calc\Calc\obj\Debug\netcoreapp2.0\Calc.dll
+C:\Users\krist\source\repos\Calc\Calc\obj\Debug\netcoreapp2.0\Calc.pdb
